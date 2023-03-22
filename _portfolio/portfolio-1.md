@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "A Vision-Based Algorithm to Hnadle Robot to Human Object Handover Tasks"
+excerpt: "ision-based robot to human object handover is a process where a robot transfers an object to a human using computer vision techniques by fusing RGB and PointCloud sensors.<br/><img src='/images/portfolio-1.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Robot-to-human object handover is a complex task that requires accurate perception and planning. Sensor fusion approaches, which integrate data from multiple sensors, have been proposed to improve the accuracy and robustness of the handover process. Vision-based sensor fusion approaches are the most commonly used techniques for robot-to-human object handover. These approaches combine data from RGB cameras, depth sensors, and other sensors to improve object recognition, grasp planning, and motion planning.
+
+
