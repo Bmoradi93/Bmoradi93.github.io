@@ -6,7 +6,7 @@ excerpt: 'Designing a local planner to control tractor-trailer vehicles in forwa
 date: 2023-10-01
 venue: 'arXiv'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: ''
 ---
 
 [Download paper here](https://arxiv.org/pdf/2212.11427)

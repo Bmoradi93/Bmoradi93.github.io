@@ -6,7 +6,7 @@ excerpt: 'We present a robot-to-human object handover algorithm and implement it
 date: 2023-01-01
 venue: 'Robot Intelligence Technology and Applications 7. RiTA 2022'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-26889-2_11'
-citation: 'Mohandes, M., Moradi, B., Gupta, K., Mehrandezh, M. (2023). Robot to Human Object Handover Using Vision and Joint Torque Sensor Modalities. In: , et al. Robot Intelligence Technology and Applications 7. RiTA 2022. Lecture Notes in Networks and Systems, vol 642. Springer, Cham. https://doi.org/10.1007/978-3-031-26889-2_11'
+citation: ''
 ---
 
 [Download paper here](https://arxiv.org/pdf/2210.15085)
