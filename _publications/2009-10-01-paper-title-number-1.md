@@ -10,5 +10,3 @@ citation: 'Mohandes, M., Moradi, B., Gupta, K., Mehrandezh, M. (2023). Robot to 
 ---
 
 [Download paper here](https://arxiv.org/pdf/2210.15085)
-
-Recommended citation: 
