@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Behnam Moradi"
+title                    : "Behnam Moradi / Site Title"
 title_separator          : "-"
 name                     : &name "Behnam Moradi"
 description              : &description "personal description"
@@ -86,7 +86,7 @@ author:
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://https://scholar.google.com/citations?user=__oNVikAAAAJ&hl=en"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
