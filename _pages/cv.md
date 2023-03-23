@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Control Systems Engineering, K.N.T University of Technology, 2016
+* M.S. in Industrial Systems Engineering(Robotics), University of Regina, 2020
+* M.S. Researcher, Computer Vision Systems, Simon Fraser University, 2021-2023 
 
 Work experience
 ======
