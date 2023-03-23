@@ -1,6 +1,6 @@
 ---
 title: "A Vision-Based Algorithm to Hnadle Robot to Human Object Handover Tasks"
-excerpt: "<br/><img src='/images/portfolio-1.png'><br/><hr>"
+excerpt: "<br/><img src='/images/portfolio-1.png'><br/>"
 collection: portfolio
 ---
 
