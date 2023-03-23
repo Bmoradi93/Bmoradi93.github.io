@@ -1,6 +1,7 @@
 ---
 title: "A Vision-Based Algorithm to Hnadle Robot to Human Object Handover Tasks"
 excerpt: "Vision-based robot to human object handover is a process where a robot transfers an object to a human using computer vision techniques by fusing RGB and PointCloud sensors.<br/><img src='/images/portfolio-1.png'>"
+<br/><img src='/images/portfolio-1.png'>
 collection: portfolio
 ---
 
