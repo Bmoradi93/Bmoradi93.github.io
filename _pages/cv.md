@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* 2021-2023: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -29,12 +29,37 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language
+  * C/C++ (Professional)
+  * Python (Professional)
+  * HTML (Professional)
+  * PHP (Familiar)
+* Frameworks & Tools & OS
+  * Linux
+  * GIT
+  * Docker
+  * AWS
+* Robotics Software Dev & Tools
+  * ROS 1
+  * ROS 2
+  * Autoware.Auto
+  * NAV2
+  * Simulation (Gazebo & ISAAC)
+* Libraries
+  * PCL
+  * OpenCV
+  * Igen
+  * Pytorch
+  * LibTorch
+  * C++ STL
+* Project Management Tools
+  * Jira
+  * Confluence
+  * BitBucket
+* Languages
+  * English
+  * Kurdish
+  * Persian
 
 Publications
 ======
@@ -53,7 +78,5 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
