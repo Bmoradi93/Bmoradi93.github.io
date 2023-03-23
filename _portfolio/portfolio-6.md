@@ -1,6 +1,6 @@
 ---
 title: "Phoenix: An Autonomous Mobile Robot for Greenhouse Applications"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio-6.png'>"
+excerpt: "<br/><img src='/images/portfolio-6.png'><br/>"
 collection: portfolio
 ---
 

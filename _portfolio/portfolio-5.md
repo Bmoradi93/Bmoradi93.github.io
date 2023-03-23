@@ -1,6 +1,6 @@
 ---
 title: "Orion: An Autonomous Mobile Robot for Indoor Applications"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio-5.png'>"
+excerpt: "<br/><img src='/images/portfolio-5.png'><br/>"
 collection: portfolio
 ---
 

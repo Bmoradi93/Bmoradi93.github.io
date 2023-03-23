@@ -1,6 +1,6 @@
 ---
 title: "Tractor-Trailer Local Planner: NMPC local planning"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio-7.png'>"
+excerpt: "<br/><img src='/images/portfolio-7.png'><br/>"
 collection: portfolio
 ---
 
