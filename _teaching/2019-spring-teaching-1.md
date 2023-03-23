@@ -1,14 +1,14 @@
 ---
-title: "Engineering Mathematics"
+title: "Industrial Control Systems"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "K.N.T University of Technology, Engineering Department"
-date: 2014-12-01
+venue: "K.N.T University of Technology, Control and Automation LAB"
+date: 2019-01-01
 location: "Tehran, Iran"
 ---
 
-Engineering Mathematics
+Industrial Control Systems
 
 Heading 1
 ======
