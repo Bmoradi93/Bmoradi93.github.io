@@ -11,21 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. Control Systems Engineering, K.N.T University of Technology, 2016
-* M.S. in Industrial Systems Engineering(Robotics), University of Regina, 2020
+* B.S. Control Systems Engineering, K.N.T University of Technology, 2011-2016
+* M.S. in Industrial Systems Engineering(Robotics), University of Regina, 2020-2022
 * M.S. Researcher, Computer Vision Systems, Simon Fraser University, 2021-2023 
 
 Work experience
 ======
-* 2021-2023: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-2022: Robotics Software Developer- Inten & Part-Time
+  * Advanced Intelligent Systems Inc
+  * Software Team
+  * Supervisor: Dr. Behzad Samadi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022(Fall): Robotics Software Developer - Intern
+  * Clearpath/OTTO Motors
+  * Navigation Team
+  * Supervisor: Jason Mercer
+
+* 2022-2023: Computer Vision Researcher
+  * Simon Fraser University
+  * Robotics Algorithms and Motion Planning LAB
+  * Supervisor: Prof. Kamal Gupta
+
+* 2022-2023: Autonomy Software Developer
+  * BEHPOO LTD
+  * Software Team
+  * Supervisor: Dr. Mohammad Akbar
   
 Skills
 ======
@@ -79,4 +89,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-  
+
