@@ -1,6 +1,6 @@
 ---
-title: "Titan: A CartPuller Autonomous Driving Platform"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio-3.png'>"
+title: "Lynx: An Autonomous Driving Platform for Off-Road Applications"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio-4.png'>"
 collection: portfolio
 ---
 

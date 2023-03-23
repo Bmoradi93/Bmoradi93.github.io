@@ -1,6 +1,6 @@
 ---
-title: "Titan: A CartPuller Autonomous Driving Platform"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio-3.png'>"
+title: "Phoenix: An Autonomous Mobile Robot for Greenhouse Applications"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio-6.png'>"
 collection: portfolio
 ---
 
