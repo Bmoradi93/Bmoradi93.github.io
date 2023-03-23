@@ -7,14 +7,3 @@ venue: "K.N.T University of Technology, Control and Automation LAB"
 date: 2019-01-01
 location: "Tehran, Iran"
 ---
-
-..
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
