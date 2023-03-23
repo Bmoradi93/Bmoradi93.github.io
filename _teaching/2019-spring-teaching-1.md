@@ -8,8 +8,6 @@ date: 2019-01-01
 location: "Tehran, Iran"
 ---
 
-Industrial Control Systems
-
 Heading 1
 ======
 

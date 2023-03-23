@@ -8,8 +8,6 @@ date: 2013-03-01
 location: "Tehran, Iran"
 ---
 
-General Mathematics
-
 Heading 1
 ======
 

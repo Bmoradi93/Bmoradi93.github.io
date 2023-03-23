@@ -8,8 +8,6 @@ date: 2013-09-01
 location: "Tehran, Iran"
 ---
 
-System Design
-
 Heading 1
 ======
 
